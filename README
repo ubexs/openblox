@@ -12,12 +12,7 @@ as a developer.
 You may encounter bugs in OpenBlox. If you do, please report them. Bug
 reports are very valuable to the OpenBlox project, since they allow us
 to notice and fix problems we don't have on our machines, or in code
-we don't use often. Please submit them on https://bugs.openblox.org/
-
-If nobody notices quickly, you may also find it useful to discuss the
-issue on one of the OpenBlox mailing lists, best suited to your
-issue. You can find a list of all OpenBlox mailing lists at
-https://lists.openblox.org/cgi-bin/mailman/listinfo
+we don't use often. Please submit them on https://gitlab.com/ubexs/clients/report-bugs
 
 NOTE ON COPYRIGHT YEARS
 
